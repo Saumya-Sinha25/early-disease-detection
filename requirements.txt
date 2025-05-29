@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+tensorflow
+fastapi
+uvicorn
+jupyter
+requests
+sqlite3

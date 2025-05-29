@@ -1,0 +1,8 @@
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.sqlite3
+*.db
+*.csv
+*.h5
+*.pkl
